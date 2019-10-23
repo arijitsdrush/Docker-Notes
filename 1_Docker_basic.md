@@ -31,6 +31,6 @@ Docker is composed of the following 4 primary components
 
  1. Docker Client and Daemon.
  2. Docker Images
- 3. Docker registries
- 4. Docker objects
+ 3. Docker Registries
+ 4. Docker Containers
 

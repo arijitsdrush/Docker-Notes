@@ -27,16 +27,10 @@ Using these namespaces a container can have its own network interfaces, IP addre
 
 ## Docker Components
 
-Docker is composed of the following 4 primary components and 4 sub components
+Docker is composed of the following 4 primary components 
 
- 1. Docker Engine or Docker Demon
- 2. Docker Client
+ 1. Docker Client and Daemon.
+ 2. Docker Images
  3. Docker registries
  4. Docker objects
-	   <ul>
-	    <li>Docker Images</li>
-	    <li>Docker Containers</li>
-	    <li>Docker Volumes</li>
-	    <li>Docker Networks</li>
-	   </ul>
 

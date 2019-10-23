@@ -1,2 +1,2 @@
 # Docker-Notes
-Docker notes for understanding and referance 
+Docker notes for understanding and reference 
